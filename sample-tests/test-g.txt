@@ -1,0 +1,4 @@
+#city1	city2	distance
+Amarillo	WichitaFalls	1
+trip	Amarillo	WichitaFalls
+trip	WichitaFalls	Amarillo

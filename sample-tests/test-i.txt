@@ -1,0 +1,8 @@
+#city1	city2	distance
+Lubbock	Midland	6
+Lubbock	Abiline	9
+Lubbock	Odessa	8
+Lubbock	WichitaFalls	14
+trip	Lubbock	Midland
+trip	Lubbock	Abiline
+trip	Lubbock	WichitaFalls
